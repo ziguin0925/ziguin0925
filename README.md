@@ -2,8 +2,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziguin0925&show_icons=true&theme=radical" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziguin0925&layout=compact" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziguin0925&layout=compact" /> --> 
 </div>
+
 
 ## Languages
 
@@ -26,3 +27,7 @@
 
 ![Jenkins](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+
+---
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jlwoo0925)
